@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="acb8592c-6605-462a-8122-da6c56cf6837" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sudoku1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/SudokuApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/buildlogic/SudokuBuildLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/computationlogic/GameGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/computationlogic/GameLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/computationlogic/SudokuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/computationlogic/SudokuUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/constants/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/constants/Messages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/constants/Rows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/persistence/LocalStorageImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/problemdomain/Coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/problemdomain/IStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/problemdomain/SudokuGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/userinterface/IUserInterfaceContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/userinterface/SudokuTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/userinterface/UserInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/userinterface/logic/ControlLogic.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LdMrtGhI8ZwYGIgUVaJebbBGbD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/HP Core i5/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.scopes"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acb8592c-6605-462a-8122-da6c56cf6837" name="Changes" comment="" />
+      <created>1676196710451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676196710451</updated>
+    </task>
+    <servers />
+  </component>
+</project>
